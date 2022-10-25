@@ -1,2 +1,3 @@
 # Chatbot-python-
-This is aggregation of all my small project into a chat for convinient 
+Aggregation of all my small projects into a ChatBot to access easily
+  
